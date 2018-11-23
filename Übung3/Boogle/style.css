@@ -1,0 +1,123 @@
+*{
+margin:0;
+padding:0;
+}
+
+body {
+font-family: Roboto, Arial;
+}
+
+.header {
+ font-size: 13px;
+ margin: 25px;
+}
+
+#gmail {
+padding: 5px 4px;
+}
+
+#Bilder {
+padding: 5px 4px;
+}
+
+
+.logo {
+
+width:400px;
+padding: 120px 80px 5px 80px;
+margin: 0 auto;
+font-size: 90px;
+letter-spacing: -12px;
+}
+
+#B {
+font-size: 105px;
+color: #0080ff;
+padding: -5px
+font-weight: normal;
+}
+
+#O1 {
+color: #ff0000;
+padding: -5px
+}
+
+#O2 {
+color: #ffbf00
+}
+
+#G {
+color: #0080ff;
+}
+
+#L {
+color: #009900;
+}
+
+#E {
+color: #ff0000;
+}
+
+
+.Search {
+width:600px;
+height: 80px
+margin: 0 auto;
+padding: 10px 100px;
+padding-left:330px;
+}
+
+input {
+width: 400px;
+heigth: 70px
+margin: 0 auto;
+
+}
+
+.buttons {
+width:300px;
+height: 80px;
+padding: 20px 10px 5px 10px;
+margin: 0 auto;
+}
+
+button {
+font-size: 14px;
+text-align: center;
+padding: 8px 10px;
+font-weight: bold;
+color: grey;
+border: none;
+background-color: #f2f2f2;
+}
+
+.Österreich {
+width: 100%;
+padding: 6px;
+background-color: #f2f2f2;
+color: grey;
+text-align: left;
+font-size: 16px;
+}
+
+#Footer {
+background-color: #f2f2f2;
+font-size: 16px;
+color: grey;
+bottom: 0;
+position: absolute;
+width: 100%;
+}
+
+a {
+color: grey;
+}
+
+a:link {
+text-decoration: none;
+color: grey;
+}
+
+a:hover {
+text-decoration: underline;
+}
